@@ -1,0 +1,8 @@
+{
+  "name": "Remix safeworkcorporationadmin",
+  "description": "Sistema digital para emisión, firma digital táctil y envío automático por correo electrónico de hojas de servicio técnico industrial y hospitalario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
